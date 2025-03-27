@@ -1,5 +1,5 @@
 # Large-Language-Models-My-Learning-Journey
-In this repository, I aim to collect and perhaps summarize some papers about Large Language Models (LLMs) that I am interested in and those that might be useful for my specific research problem. 
+In this repository, I aim to collect and perhaps summarize some papers about Large Language Models (LLMs) that I am interested in and those that might be useful for my research. 
 ## Foundational Models
 (1) Mixture of Experts (MoE)
 (2) Multi-head Latent Attention (MLA)
